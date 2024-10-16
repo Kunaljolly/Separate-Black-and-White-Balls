@@ -1,6 +1,7 @@
 # Separate-Black-and-White-Balls
 
 
+
 There are n balls on a table, each ball has a color black or white.
 
 You are given a 0-indexed binary string s of length n, where 1 and 0 represent black and white balls, respectively.
